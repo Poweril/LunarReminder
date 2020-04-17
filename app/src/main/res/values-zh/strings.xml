@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">农历提醒</string>
+    <string name="tab_text_1">标签 1</string>
+    <string name="tab_text_2">标签 2</string>
+</resources>
